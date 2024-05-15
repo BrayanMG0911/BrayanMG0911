@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🥇
+meu nome é Brayan 
 
-<!--
-**BrayanMG0911/BrayanMG0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando o[Alura] (https://www.alura.com.br)
+- Estou desenvolvendo na linguagem JavaSript
+- ultilizo esse espaço para organizar meus projetos 
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 🥇
+00001093702291SP@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@Brayan_mateus_ccb
+
+![](https://media.tenor.com/FApmbvGhjMYAAAAM/prf-pol%C3%ADcia-federal.gif)
